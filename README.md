@@ -20,6 +20,6 @@
 1. Due to large number of text files, data importing and some data cleansing tasks took longer time to excecute.
 2. Limited visualization techniques restricted evaluation of slightly mixed topics.
 
-**Scope of Work** -
+**Scope of Future Work** -
 1. Using LDA through Genism library or other topic modeling techniques
 2. Implementing neural network with word2vec. 
