@@ -23,3 +23,5 @@
 **Scope of Future Work** -
 1. Using LDA through Genism library or other topic modeling techniques
 2. Implementing neural network with word2vec. 
+
+[Link for the project presentation](https://docs.google.com/presentation/d/1XB4VvYzIgvHFmqA86ehZSdwOO_il3PhAJBq6ygqEXKc/edit?usp=sharing)
