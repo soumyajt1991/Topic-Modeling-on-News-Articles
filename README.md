@@ -12,11 +12,14 @@
 5. Using TF-IDF vectorizer converted bag of words model to sparse matrix which to be used for modeling.
 6. Implemented several topic modeling techniques such as Latent Dirichlet Allocation (LDA), Latent Semantic Analysis (LSA) and Non-negative Matrix Factorization (NMF).
 7. Checked model performance by visualizing model output clusters/topics using tools such as pyLDAvis, t-SNE Clustering and wordcloud. 
-8. Assigned respective clusters to topics as given initially (business, entertainment, politics, sports, technology) according to words it consists of. 
+8. Assigned respective clusters to topics as given initially (business, entertainment, politics, sports, technology), according to words it consists of. 
 
-**Conclusion** -
+**Conclusion** - Non-negative Matrix Factorization (NMF) showed best performance to properly segregate the articles into given 5 topics.
 
-**Challenges** -
+**Challenges** - 
+1. Due to large number of text files, data importing and some data cleansing tasks took longer time to excecute.
+2. Limited visualization techniques restricted evaluation of slightly mixed topics.
 
 **Scope of Work** -
- 
+1. Using LDA through Genism library or other topic modeling techniques
+2. Implementing neural network with word2vec. 
