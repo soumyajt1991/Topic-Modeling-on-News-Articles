@@ -21,7 +21,7 @@
 2. Limited visualization techniques restricted evaluation of slightly mixed topics.
 
 **Scope of Future Work** -
-1. Using LDA through Genism library or other topic modeling techniques.
+1. Using LDA through Gensim library or other topic modeling techniques.
 2. Implementing neural network with word2vec. 
 
 [Link for the project presentation](https://docs.google.com/presentation/d/1HovJlwruNkk9EuQrrAWPEBI4VrugZv2eqzjIAkk3LPU/edit?usp=sharing)
